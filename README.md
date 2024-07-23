@@ -94,7 +94,8 @@
 - Preprocessing steps such as image resizing and normalization contributed to improved performance in PyTorch.
 - Overall, TensorFlow demonstrated better performance and efficacy for the task of flower classification compared to PyTorch.
 
-License
+### License
+
 This project is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License.
 
 You are free to:
